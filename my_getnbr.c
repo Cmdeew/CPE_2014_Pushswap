@@ -1,11 +1,11 @@
 /*
-** my_getnbr.c for my_getnbr in /home/ploujo_c/rendu/Piscine_C_J07/lib/my
+** my_getnbr.c for Pushswap in /home/rieux-_t/Documents/Github/CPE_2014_Pushswap
 ** 
-** Made by christophe ploujoux
-** Login   <ploujo_c@epitech.net>
+** Made by Thomas-Rieux-Laucat
+** Login   <rieux-_t@epitech.net>
 ** 
-** Started on  Tue Oct  7 23:45:42 2014 christophe ploujoux
-** Last update Tue Nov  4 16:38:13 2014 Ploujoux Christophe
+** Started on  Tue Jun 23 18:44:22 2015 Thomas-Rieux-Laucat
+** Last update Tue Jun 23 18:44:23 2015 Thomas-Rieux-Laucat
 */
 
 int	my_getnbr(char *str)
